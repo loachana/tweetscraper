@@ -1,4 +1,4 @@
-This program allows you get latest tweets on your page or 
+This program allows you get latest tweets on your home page or 
 at a given keyword. 
 <br />
 before that, make sure mechanize and BeautifulSoup have been installed on your system
@@ -21,4 +21,4 @@ cd tweetscraper
 python twscraper.py
 </pre>
 
- 
+tested under linux os 
