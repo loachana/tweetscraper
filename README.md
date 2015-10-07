@@ -1,7 +1,7 @@
-This program allows you to get latest tweets on your page or 
+This program allows you get latest tweets on your page or 
 at a given keyword. 
 <br />
-before that, make sure mechanize and BeautifulSoup are already installed on your system
+before that, make sure mechanize and BeautifulSoup have been installed on your system
 <br />
 <strong>mechanize</strong>
 <pre>
